@@ -2,6 +2,18 @@
   <img src="assets/story.svg" width="100%" alt="Story mode: a pixel version of Shehryar runs through four worlds. Seekho writes a lesson on a chalkboard, MUV gathers 130+ students, Chowkidaar spots and patches API drift, and Hold blocks a malicious GitHub issue.">
 </p>
 
+## Portfolio
+
+<p align="center">
+  <a href="https://shehryarhassan.me" target="_blank" rel="noopener noreferrer">
+    <img src="assets/portfolio-preview.png" width="100%" alt="Shehryar Hassan — Live Portfolio (shehryarhassan.me)" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>👆 Click anywhere on the browser window above to launch <a href="https://shehryarhassan.me"><b>shehryarhassan.me</b></a></sub>
+</p>
+
 ## Open source
 
 I spend time fixing bugs and contributing to open-source developer tooling and infrastructure:
