@@ -8,7 +8,7 @@ I spend time fixing bugs and contributing to open-source developer tooling and i
 
 | Project | What it is | Stars | Contribution |
 | :--- | :--- | :---: | :---: |
-| [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | Extremely fast Python linter and code formatter written in Rust | [![Stars](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&logo=github&color=blue)](https://github.com/astral-sh/ruff) | [PR #30320](https://github.com/astral-sh/ruff/pull/30320) [![Merged](https://img.shields.io/badge/status-merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/astral-sh/ruff/pull/30320) |
+| [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | Python linter and code formatter written in Rust | [![Stars](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&logo=github&color=blue)](https://github.com/astral-sh/ruff) | [PR #30320](https://github.com/astral-sh/ruff/pull/30320) [![Merged](https://img.shields.io/badge/status-merged-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/astral-sh/ruff/pull/30320) |
 
 <br/>
 
